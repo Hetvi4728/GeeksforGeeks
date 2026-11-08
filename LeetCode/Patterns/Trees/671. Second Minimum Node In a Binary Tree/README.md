@@ -1,6 +1,6 @@
 # 📝 671. Second Minimum Node In a Binary Tree (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/?envType=problem-list-v2&envId=binary-tree)
+🔗 [Problem Link](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
@@ -8,8 +8,8 @@
 Tree, Depth-First Search, Binary Tree
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 0 ms
+- **Memory:** 9.2 MB
 
 ---
 
