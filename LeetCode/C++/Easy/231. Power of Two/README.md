@@ -1,6 +1,6 @@
 # 📝 231. Power of Two (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/power-of-two)
+🔗 [Problem Link](https://leetcode.com/problems/power-of-two/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
@@ -19,7 +19,7 @@ Given an integer  `n` , return  *`true`  if it is a power of two. Otherwise, ret
 
 An integer  `n`  is a power of two, if there exists an integer  `x`  such that  `n == 2x` .
 
-OriginalC++ **Example 1:**
+**Example 1:**
 
 ```
 Input: n = 1
