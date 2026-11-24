@@ -2,7 +2,7 @@
 
 🔗 [Problem Link](https://leetcode.com/problems/maximum-subarray-with-equal-products/?envType=daily-question&envId=2026-11-24)
 
-![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-C++-blue)
+![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
 ### 💡 Tags
 Array, Math, Sliding Window, Enumeration, Number Theory
@@ -28,7 +28,7 @@ An array  `arr`  is called  **product equivalent**  if  `prod(arr) == lcm(arr) *
 
 Return the length of the  **longest**   **product equivalent**  subarray of  `nums` .
 
-OriginalC++ **Example 1:**
+OriginalPython **Example 1:**
 
 **Input:**  nums = [1,2,1,2,1,1,1]
 
