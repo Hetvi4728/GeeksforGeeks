@@ -11,11 +11,16 @@ public:
             long long lcmVal = 1;
 
             for (int j = i; j < n; j++) {
-                product *= nums[j];
-
                 gcdVal = gcd(gcdVal, (long long)nums[j]);
 
-                lcmVal = (lcmVal / gcd(lcmVal, (long long)nums[j])) * nums[j];
+                lcmVal = lcm(lcmVal, (long long)nums[j]);
+
+                // Prevent product overflow
+                if (product > (lcmVal * gcdVal) / nums[j]) {
+                    break;
+                }
+
+                product *= nums[j];
 
                 if (product == lcmVal * gcdVal) {
                     ans = max(ans, j - i + 1);
