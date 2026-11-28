@@ -8,8 +8,8 @@
 Array, Greedy, Sorting, Heap (Priority Queue)
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 55 ms
+- **Memory:** 286.6 MB
 
 ---
 
